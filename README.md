@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Dev 👋
 
-<!--
-**dev-niquith/dev-niquith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI / ML Engineering Student exploring:
 
-Here are some ideas to get you started:
+- Machine Learning
+- Quantum Computing
+- Computational Astronomy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Mission
+
+Building a public portfolio combining:
+
+AI + Quantum Computing + Astronomy
+
+## Tech Stack
+
+Python  
+PyTorch  
+Qiskit  
+PennyLane  
+NumPy  
+Matplotlib
+
+## Learning Journey
+
+This GitHub documents my progress as I build projects and experiments every week.
